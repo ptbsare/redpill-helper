@@ -1,10 +1,17 @@
 {
   "extra_cmdline": {
-    "vid": "0x46f4",
-    "pid": "0x0001",
-    "sn": "1234XXX123",
-    "mac1": "XXYYXXYYXXYY"
+    "pid": "0x0781",
+    "vid": "0x5571",
+    "sn": "1780PDN388713",
+    "netif_num": "3",
+    "mac1": "0011327B2C73",
+    "mac2": "0011327B2C74",
+    "mac3": "0011327B2C75",
+    "SataPortMap": "244"
   },
-  "synoinfo": {},
+  "synoinfo": {
+    "maxdisks": "8",
+    "maxlanport": "3"
+  },
   "ramdisk_copy": {}
 }
